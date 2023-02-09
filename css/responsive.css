@@ -1,8 +1,5 @@
 
 @media  screen and (min-width:540px) and (max-width:720px) {
-    * {
-        border: 1px solid red;
-    }
     .contenedor-img, .text-1 {
         display: none;
     }
@@ -34,9 +31,6 @@
 }
 
 @media screen and (min-width:720px) and (max-width:960px) {
-    * {
-        border: 1px solid red;
-    }
     .hero {
         background-position: center;
     }
@@ -106,9 +100,6 @@
 }
 
 @media screen and (min-width:300px) and (max-width:540px) {
-    * {
-        border: 1px solid red;
-    }
     body {
         margin: auto;
     }
